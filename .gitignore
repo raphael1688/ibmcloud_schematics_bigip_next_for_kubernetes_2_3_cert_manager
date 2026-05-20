@@ -30,3 +30,6 @@ __pycache__/
 # Claude Code local settings
 .claude/
 CLAUDE.md
+
+# Local-only demo scripts
+demo.sh
